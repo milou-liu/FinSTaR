@@ -222,7 +222,7 @@ If you find this work useful, please cite:
 @article{lee2026finstar,
   title={FinSTaR: Towards Financial Reasoning with Time Series Reasoning Models},
   author={Lee, Seunghan and Seo, Jun and Lee, Jaehoon and Yoo, Sungdong and Kim, Minjae and Lim, Tae Yoon and Kang, Dongwan and Choi, Hwanil and Lee, Soonyoung and Ahn, Wonbin},
-  journal={arXiv preprint arXiv:2605.03460},
+  journal={EMNLP Industry Track},
   year={2026}
 }
 ```
